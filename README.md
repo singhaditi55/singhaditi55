@@ -52,10 +52,10 @@
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 Email: your-email@example.com
+- 💼 [LinkedIn]()
+- 🌐 [Portfolio]()
+- 🐦 [Twitter]()
+- 📧 Email:aditikumari5281@gmail.com
 
 ---
 
